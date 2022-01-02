@@ -6,4 +6,4 @@ The sculpture currently has two modes. There is interactive mode in which it is 
 
 [![PXL_20220102_092019050-2 MP](https://user-images.githubusercontent.com/6079002/147871917-449bd512-f3b7-4ce4-81d3-880b2d29c4e7.jpg)](https://youtu.be/oQwkW7BH-mE "Video on Youtube")
 
-
+For a more detailed description of the project see the [hackaday page](https://hackaday.io/project/183344-electrokinetic-sculpture).
